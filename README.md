@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-The **Fraud Detection in Financial Transactions** project utilizes Python with Pandas, NumPy, Matplotlib, and sci-kit-learn to analyze and preprocess financial transaction data. Employing advanced feature engineering and over-sampling techniques, the project addresses data imbalance challenges to enhance model accuracy. Through hyperparameter tuning and employing Decision Tree, Logistic Regression, KNN, and XGBoost algorithms, the project achieves a predictive accuracy of 78.8%. This initiative effectively reduces financial fraud risks by applying robust data analysis and machine learning methodologies in a practical, real-world context.
+The **Fraud Detection in Financial Transactions** project utilizes Python with Pandas, NumPy, Matplotlib, and sci-kit-learn to analyze and preprocess financial transaction data. Employing advanced feature engineering and over-sampling techniques, the project addresses data imbalance challenges to enhance model accuracy. Through hyperparameter tuning and employing Decision Tree, Logistic Regression, KNN, and XGBoost algorithms, the project achieves a predictive accuracy of 89.2%. This initiative effectively reduces financial fraud risks by applying robust data analysis and machine learning methodologies in a practical, real-world context.
 
 ## Workflow Overview
 
